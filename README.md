@@ -1,2 +1,4 @@
 # MathAssistant
-Android implementation of the MathHelper library
+
+## General info
+An Android application which implements the MathHelper library
